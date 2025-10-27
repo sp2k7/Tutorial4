@@ -10,8 +10,7 @@ To demonstrate the full Git workflow by:
 ## What’s Included?
 - `name.py`: A Python file that prompts the user to enter their first and last name, then prints the full name.
 
-## Collaborators
-- Eliyahu Paltoo
+## Collaborator
 - Sheeneza Mohamed
 
 ## Steps Completed
